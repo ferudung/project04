@@ -1,2 +1,4 @@
 deneme
 deneme1
+dede
+deneme remote
